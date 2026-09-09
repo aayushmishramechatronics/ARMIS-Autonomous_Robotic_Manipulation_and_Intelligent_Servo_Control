@@ -13,6 +13,9 @@
 
 ## Overview
 
+<img width="800" height="490" alt="0_demo" src="https://github.com/user-attachments/assets/9eddc3a6-ceb6-4607-ad26-00765580bc7e" />
+
+
 ARMIS is a 4-DOF robotic arm control stack: a Unity front end (analytical
 IK, trajectory planning, mission orchestration, live telemetry) paired
 with lightweight Arduino firmware (servo control, independent safety
