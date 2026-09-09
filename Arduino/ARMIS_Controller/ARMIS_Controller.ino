@@ -1,4 +1,5 @@
 /*
+ * Author: Pranay Shet 
  * ARMIS_Controller.ino
  * Autonomous Robotic Manipulation and Intelligent Servo Control
  *
